@@ -1,5 +1,5 @@
 # videoStreamCurl
-Streaming video usando curl
+Streaming video usando curl.
 Basado en https://gist.github.com/ranacseruet/9826293.
 
 
