@@ -1,8 +1,8 @@
 <?php
 /*
 * JSA VIDEO STREAM CURL
-*
-*
+* @autor: 	JosAlba
+* @web:		jose.alba@jsascript.com
 */
 
 $video 		= '';
